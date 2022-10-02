@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">foodOrder</string>
+    <string name="title_activity_final_screen">SudamaFoods</string>
+    <string name="title_activity_final">FoodOrder</string>
+</resources>
